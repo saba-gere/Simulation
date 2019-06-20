@@ -1,0 +1,10 @@
+h1{color: blue}
+#left {
+	height: 400px;
+	width: 700px;
+	float: left;
+	border-style: solid;	
+	border-color: black;
+	border-width: 1px; 
+	background-color: #1e90ff;
+}
